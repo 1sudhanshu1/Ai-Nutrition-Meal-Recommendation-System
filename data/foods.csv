@@ -1,0 +1,38 @@
+food,diet,meal,kcal,protein,carbs,fat,fibre
+Vegetable poha,Vegetarian,Breakfast,250,6,45,6,3
+Moong dal chilla (2),Vegetarian,Breakfast,220,14,28,6,5
+Idli with sambar (3),Vegan,Breakfast,240,8,46,3,4
+Oats with milk and fruit,Vegetarian,Breakfast,300,12,48,7,6
+Paneer paratha,Vegetarian,Breakfast,380,14,40,18,4
+Egg omelette with toast,Non-Veg,Breakfast,330,20,24,17,2
+Upma,Vegan,Breakfast,230,6,38,7,3
+Vegetable upma with sambar,Vegan,Breakfast,260,8,42,7,5
+Smoothie bowl with oats and banana,Vegetarian,Breakfast,320,10,55,7,6
+Besan chilla with mint chutney,Vegan,Breakfast,240,12,30,7,5
+"Dal, rice and salad",Vegan,Lunch,480,17,85,7,9
+Rajma chawal,Vegan,Lunch,520,18,90,9,12
+"Paneer bhurji, 2 roti",Vegetarian,Lunch,550,25,55,24,6
+Chole with 2 roti,Vegan,Lunch,540,20,82,14,14
+"Chicken curry, rice",Non-Veg,Lunch,600,38,70,17,4
+"Grilled fish, rice, veg",Non-Veg,Lunch,520,36,58,14,5
+Veg pulao with raita,Vegetarian,Lunch,450,12,70,13,5
+Quinoa salad with chickpeas,Vegan,Lunch,430,16,60,13,11
+Lentil soup with veg stir-fry,Vegan,Lunch,380,18,52,8,12
+Curd rice with pickle,Vegetarian,Lunch,400,11,62,11,3
+Roasted chana (50 g),Vegan,Snack,180,10,28,3,8
+Fruit bowl,Vegan,Snack,120,1,30,0,4
+Greek yogurt with nuts,Vegetarian,Snack,200,14,12,10,2
+Boiled eggs (2),Non-Veg,Snack,155,13,1,11,0
+Peanut chikki,Vegan,Snack,190,5,22,10,2
+Sprouts salad,Vegan,Snack,140,9,22,2,6
+Buttermilk with roasted cumin,Vegetarian,Snack,60,3,6,2,0
+Mixed nuts and seeds (30 g),Vegan,Snack,190,6,7,16,3
+Vegetable khichdi,Vegan,Dinner,380,12,66,7,6
+"Palak paneer, 2 roti",Vegetarian,Dinner,480,22,50,20,8
+Grilled chicken salad,Non-Veg,Dinner,350,38,14,15,4
+"Dal tadka, 2 roti",Vegan,Dinner,420,16,68,9,11
+"Egg curry, 2 roti",Non-Veg,Dinner,470,24,52,18,6
+"Mixed veg curry, 2 roti",Vegan,Dinner,360,9,58,9,8
+Tofu stir-fry with rice,Vegan,Dinner,430,20,56,13,5
+Khichdi with cucumber raita,Vegetarian,Dinner,400,14,64,9,6
+Grilled fish with sauteed veg,Non-Veg,Dinner,380,34,18,18,5
